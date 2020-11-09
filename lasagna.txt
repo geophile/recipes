@@ -20,6 +20,8 @@ Toys:
 
 Cooking:
 
+- Preheat oven to 350.
+
 - Cut up the mozzarella into cubes.
 
 - Dice the onion, pretty small.
